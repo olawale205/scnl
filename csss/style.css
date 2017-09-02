@@ -198,7 +198,7 @@ a:active {
 .bdy_link {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 10px;
-	color: #666666;
+	color: #FFFFFF;
 }
 .title_1 {
 	font-family: Verdana, Geneva, sans-serif;
@@ -254,10 +254,12 @@ a:active {
 .messg2 {
 	font-family: Tahoma;
 
+
+
 	color: #FFF
 	font-size: 36px;
-	text-align: center;
-	font-size: 24px;
+	text-align: left;
+	font-size: 26px;
 	color: #FFF;
 }
 
@@ -292,7 +294,7 @@ border-bottom: 1px solid #DDE3ED;
 }
 .h4_font {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 12px;
+	/* [disabled]font-size: 12px; */
 	line-height: 23px;
 }
 .h5_font {

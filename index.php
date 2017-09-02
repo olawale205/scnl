@@ -14,9 +14,10 @@
 <style type="text/css">
 body {
 	margin-top: 0px;
-	margin-left:0px;
-	margin-right:0px;
-	background-color:#CAC4B3;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #CAC4B3;
+	background-image: url(images/Lens_flare_background.jpg);
 }
 </style>
 <script type="text/javascript">
@@ -42,71 +43,36 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </head>
 
 <body>
-<table width="900" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td colspan="2" align="right"><table width="60%" border="0" align="right" cellpadding="0" cellspacing="0">
-      <tr bgcolor="#000066">
-        <td width="50%" nowrap="nowrap" bgcolor="#1F4B93"><img src="images/images.jpg" width="15" height="12" alt="" /><span class="h1_font">07037759600, 08138837349, 08065915331,08058196510</span></td>
-        <td width="20%" align="right" bgcolor="#1F4B93" class="h1_font">info@stylinks.com.ng</td>
-        <td width="30%" align="right" nowrap="nowrap" bgcolor="#1F4B93" class="h1_font">Mon - Fri 08:30am - 04:00pm</td>
+    <td bgcolor="#DE2922"><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="197">&nbsp;</td>
+        <td width="71">&nbsp;</td>
+        <td width="297"><span class="h1_font">07037759600, 08138837349, <br />
+          <br />
+          08065915331,
+        08058196510</span></td>
+        <td width="147"><span class="h1_font">info@stylinks.com.ng</span></td>
+        <td width="188"><span class="h1_font">Mon - Fri 08:30am - 04:00pm</span></td>
       </tr>
     </table></td>
   </tr>
   <tr>
-    <td width="53%" align="left"><span class="slide"><img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><span class="title_3"><br />
-    </span></span><span class="bdy_link">best Solution for your business</span></td>
-    <td width="47%" align="left" valign="top" class="h2_font">&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="left" class="title_3">Stylinks Cyber Nigeria Limited</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left"><div id="slider">
-		<div class="viewer">
-			<div class="reel">
-				<div class="slide">
-					<img src="images/header2.jpg" alt="" border="0" />
-				</div>
-				<div class="slide">
-					<img src="images/Security.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/technology_header1.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/header-img-companyover.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/autronics.jpg" alt="" />
-				</div>
-                <div class="slide">
-					<img src="images/cafe.jpg" alt="" />
-				</div>
-                <div class="slide">
-					<img src="images/carp1.jpg" alt="" />
-				</div>
-             
-                
-		  </div>
-		</div>
-		<div class="indicator">
-			<span>1</span>
-			<span>2</span>
-			<span>3</span>
-			<span>4</span>
-			<span>5</span>
-            <span>6</span>
-            <span>7</span>
-           
-           
-            
-		</div>
-	</div>
-             </td>
+    <td bgcolor="#1F4B93"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="208" class="h1_font"><br />          <img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><br />            
+          <span class="bdy_link">Best Solution for your Business</span><br />        </td>
+        <td width="225">&nbsp;</td>
+        <td width="507" bgcolor="#1F4B93">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" class="messg2">Stylinks Cyber Nigeria Limited</td>
+        </tr>
+    </table></td>
   </tr>
 </table>
-<table width="940" border="0" align="center" cellpadding="1" cellspacing="1">
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td><table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
@@ -131,17 +97,64 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="85" align="left" background="images/index_r1.jpg"><a href="contact_us.php">
-        <div align="center" class="menu">Contact us</div></a></td>
+          <div align="center" class="menu">Contact us</div>
+        </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="88" align="center" background="images/index_r1.jpg" ><div class="menu"><a href="#" class="menu" onclick="MM_openBrWindow('https://pen.whogohost.com:2096/','','')">Mail</a></div></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        
         <td width="246" align="left" background="images/about1.gif" ></td>
-       
-       
       </tr>
     </table></td>
   </tr>
+</table>
+<table width="900" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
+  <tr>
+    <td width="100%" align="left"><div id="slider">
+		<div class="viewer">
+			<div class="reel">
+				<div class="slide">
+					<img src="images/header2.jpg" alt="" border="0" />
+				</div>
+				<div class="slide">
+					<img src="images/Security.jpg" alt="" />
+				</div>
+				<div class="slide">
+					<img src="images/technology_header1.jpg" alt="" />
+				</div>
+				<div class="slide">
+				<img src="images/header-img-companyover.jpg" alt="" /></div>
+				<div class="slide">
+                <img src="images/dev.jpg" width="940" height="230" />
+					
+				</div>
+                <div class="slide">
+                <img src="images/wd.jpg" width="940" height="230" />
+                </div>
+                <div class="slide"><img src="images/web.jpg" width="940" height="230" />
+					
+				</div>
+             
+                
+		  </div>
+		</div>
+		<div class="indicator">
+			<span>1</span>
+			<span>2</span>
+			<span>3</span>
+			<span>4</span>
+			<span>5</span>
+            <span>6</span>
+            <span>7</span>
+           
+           
+            
+		</div>
+	</div>
+    </td>
+  </tr>
+</table>
+<table width="940" border="2" align="center" cellpadding="1" cellspacing="1">
+  
   <tr>
     <td><table width="100%" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
       <tr>
@@ -153,9 +166,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 							case'home':
 					?>
               <strong>WELCOME TO STYLINKS CYBER</strong><br />
-Stylinks Cyber  is a Nigeria based company. We specialize in software development,  website design, web   portals, statistical analysis, and   supply and installation of security camera. Stylinks Cyber has an integrated team of web   consultants, creative designers, and programmers that keep our clients   one-step ahead. </td>
+Stylinks Cyber  is a Nigeria based company that specialize in software development,  website design, web   portals, statistical analysis,    supply and installation of security camera. Stylinks Cyber has an integrated team of web   consultants, creative designers, and programmers that keep our clients   one-step ahead. All the websites are database driven content management which allow you to easily access and make changes through an administrative panel.</td>
           </tr>
-        </table></td>
+      </table></td>
         </tr>
       <tr>
         <td align="left" valign="top" class="h4_font">
@@ -172,7 +185,7 @@ Stylinks Cyber  is a Nigeria based company. We specialize in software developmen
 		        Strategic thinking, top designers, personal attention, competitive prices, real world results - discover the Today's Solution difference. </p>
                 <p><strong class="form_title">Mission</strong><br />
                   To be the providers of innovative I.C.T. strategies and services, which deliver long term commercial benefits, based upon our clients key business requirements. </p>
-                <p><strong class="form_title">Vission</strong><br />
+                <p class="slide"><strong class="form_title">Vission</strong><br />
                 At stylinks cyber, our vision is to be the first that comes to mind when innovation, technology and performance is required in the ICT, combining leading edge business strategy and IT knowledge to develop efficient and effective solutions that keep our clients one-step ahead</p></td>
 		      </tr>
 		    </table></td>
@@ -186,21 +199,16 @@ Stylinks Cyber  is a Nigeria based company. We specialize in software developmen
       <tr>
         <td align="left" valign="top" class="h4_font"><table width="95%" border="0" align="center">
           <tr>
-            <td width="24%" align="left"><strong><u>Our Clients</u></strong></td>
+            <td width="24%" align="left">&nbsp;</td>
             <td width="22%" align="center">&nbsp;</td>
             <td width="54%" align="center">&nbsp;</td>
             </tr>
-          <tr>
-            <td align="center"><a href="#"><img src="images/michlogo.jpg" alt="" width="69" height="66" onclick="MM_openBrWindow('www.tarabapoly.edu.ng','','')" /></a></td>
-            <td align="center">&nbsp;</td>
-            <td align="center">&nbsp;</td>
-          </tr>
           </table></td>
       </tr>
     </table></td>
   </tr>
-  <tr>
-    <td bgcolor="#666666"><table width="100%" border="0" align="center">
+  <tr bgcolor="#252728">
+    <td><table width="100%" border="0" align="center">
       <tr>
         <td width="29%" align="left" class="h6_font"><u>PRODUCTS</u></td>
         <td width="38%" align="left" class="h6_font"><u>SERVICE OFFERS</u></td>
@@ -214,7 +222,7 @@ Stylinks Cyber  is a Nigeria based company. We specialize in software developmen
           <li class="h2_font">Eduportal</li>
           <li class="h2_font">Estate Manag. System</li>
         </ul></td>
-        <td align="left" valign="top"><p><span class="h2_font">+ Websites/Portal Development</span><br />
+        <td align="left" valign="top" bgcolor="#252728"><p><span class="h2_font">+ Websites/Portal Development</span><br />
             <span class="h2_font">+ Software Development </span><br />
           <span class="h2_font">+          Statistical Analysis</span><br />
           <span class="h2_font">+Supply &amp; Installation of Security Cameras </span></p>
