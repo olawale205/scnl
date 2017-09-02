@@ -61,7 +61,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   <tr>
     <td bgcolor="#1F4B93"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
-        <td width="208" class="h1_font"><br />          <img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><br />            
+        <td width="208" align="left" class="h1_font"><br />          <img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><br />            
           <span class="bdy_link">Best Solution for your Business</span><br />        </td>
         <td width="225">&nbsp;</td>
         <td width="507" bgcolor="#1F4B93">&nbsp;</td>
@@ -221,11 +221,12 @@ Stylinks Cyber  is a Nigeria based company that specialize in software developme
           <li class="h2_font">Hotel Manag. System</li>
           <li class="h2_font">Eduportal</li>
           <li class="h2_font">Estate Manag. System</li>
+          <li class="h2_font">Inventory</li>
         </ul></td>
-        <td align="left" valign="top" bgcolor="#252728"><p><span class="h2_font">+ Websites/Portal Development</span><br />
-            <span class="h2_font">+ Software Development </span><br />
+        <td align="left" valign="top" bgcolor="#252728"><p><span class="h2_font">+ Web Design</span><br />
+            <span class="h2_font">+ Software Design </span><br />
           <span class="h2_font">+          Statistical Analysis</span><br />
-          <span class="h2_font">+Supply &amp; Installation of Security Cameras </span></p>
+          <span class="h2_font">+ Supply &amp; Installation of Security Cameras </span></p>
           <p><br />
           </p></td>
         <td align="left" valign="top" class="h2_font"><p>Block I, Shop 7/8 Miyapet Plaza Jalingo, <br />
