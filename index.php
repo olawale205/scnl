@@ -224,7 +224,7 @@ Stylinks Cyber  is a Nigeria based company that specialize in software developme
           <li class="h2_font">Inventory</li>
         </ul></td>
         <td align="left" valign="top" bgcolor="#252728"><p><span class="h2_font">+ Web Design</span><br />
-            <span class="h2_font">+ Software Design </span><br />
+            <span class="h2_font">+ Application Development </span><br />
           <span class="h2_font">+          Statistical Analysis</span><br />
           <span class="h2_font">+ Supply &amp; Installation of Security Cameras </span></p>
           <p><br />

@@ -132,8 +132,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </tr>
     </table></td>
   </tr>
-  <tr>
-    <td bgcolor="#666666"><table width="100%" border="0" align="center">
+  <tr bgcolor="#252728">
+    <td><table width="100%" border="0" align="center">
       <tr>
         <td width="29%" align="left" class="h6_font"><u>PRODUCTS</u></td>
         <td width="38%" align="left" class="h6_font"><u>SERVICE OFFERS</u></td>
@@ -147,11 +147,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <li class="h2_font">Eduportal</li>
           <li class="h2_font">Estate Manag. System</li>
         </ul></td>
-        <td align="left" valign="top"><p><span class="h2_font">+ Websites/Portal Development</span><br />
-            <span class="h2_font">+ Software Development </span><br />
-          <span class="h2_font">+          Statistical Analysis</span><br />
-          <span class="h2_font">+Supply &amp; Installation of Security Cameras </span></p>
-          <p><br />
+        <td align="left" valign="top"><p><span class="h2_font">+ Web Design</span><br />
+            <span class="h2_font">+ Application Development </span><br />
+            <span class="h2_font">+          Statistical Analysis</span><br />
+            <span class="h2_font">+ Supply &amp; Installation of Security Cameras </span><br />
           </p></td>
         <td align="left" valign="top" class="h2_font"><p>Block I, Shop 7/8 Miyapet Plaza Jalingo, <br />
           <br />
