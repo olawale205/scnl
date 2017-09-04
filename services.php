@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="eng">
 <head>
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8" />
 <link rel="shortcut icon" href="images/logo.jpg">
 
 <title>Stylinks Cyber Nig Ltd</title>
@@ -14,99 +14,46 @@
 <style type="text/css">
 body {
 	margin-top: 0px;
-	margin-left:0px;
-	margin-right:0px;
-	background-color:#CAC4B3;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #CAC4B3;
+	background-image: url(images/Lens_flare_background.jpg);
 }
 </style>
-<script type="text/javascript">
-$(function() {
-		$('#menu > ul').dropotron({
-			mode: 'fade',
-			globalOffsetY: 11,
-			offsetY: -15
-		});
-		$('#slider').slidertron({
-			viewerSelector: '.viewer',
-			indicatorSelector: '.indicator span',
-			reelSelector: '.reel',
-			slidesSelector: '.slide',
-			speed: 'slow',
-			advanceDelay: 4000
-		});
-	});
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-</script>
+
 </head>
 
 <body>
-<table width="900" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td colspan="2" align="right"><table width="60%" border="0" align="right" cellpadding="0" cellspacing="0">
-      <tr bgcolor="#000066">
-        <td width="50%" nowrap="nowrap" bgcolor="#1F4B93"><img src="images/images.jpg" width="15" height="12" alt="" /><span class="h1_font">07037759600, 08138837349, 08065915331,08058196510</span></td>
-        <td width="20%" align="right" bgcolor="#1F4B93" class="h1_font">info@stylinks.com.ng</td>
-        <td width="30%" align="right" nowrap="nowrap" bgcolor="#1F4B93" class="h1_font">Mon - Fri 08:30am - 04:00pm</td>
+    <td bgcolor="#DE2922"><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="197">&nbsp;</td>
+        <td width="71">&nbsp;</td>
+        <td width="297"><span class="h1_font">07037759600, 08138837349, <br />
+          <br />
+          08065915331,
+        08058196510</span></td>
+        <td width="147"><span class="h1_font">info@stylinks.com.ng</span></td>
+        <td width="188"><span class="h1_font">Mon - Fri 08:30am - 04:00pm</span></td>
       </tr>
     </table></td>
   </tr>
   <tr>
-    <td width="53%" align="left"><span class="slide"><img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><span class="title_3"><br />
-    </span></span><span class="bdy_link">best solution for your business</span></td>
-    <td width="47%" align="left" valign="top" class="h2_font">&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="left" class="title_3">Stylinks Cyber Nigeria Limited</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left"><div id="slider">
-		<div class="viewer">
-			<div class="reel">
-				<div class="slide">
-					<img src="images/header2.jpg" alt="" border="0" />
-				</div>
-				<div class="slide">
-					<img src="images/Security.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/technology_header1.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/header-img-companyover.jpg" alt="" />
-				</div>
-				<div class="slide">
-					<img src="images/autronics.jpg" alt="" />
-				</div>
-                <div class="slide">
-					<img src="images/cafe.jpg" alt="" />
-				</div>
-                <div class="slide">
-					<img src="images/carp1.jpg" alt="" />
-				</div>
-             
-                
-		  </div>
-		</div>
-		<div class="indicator">
-			<span>1</span>
-			<span>2</span>
-			<span>3</span>
-			<span>4</span>
-			<span>5</span>
-            <span>6</span>
-            <span>7</span>
-           
-           
-            
-		</div>
-	</div>
-             </td>
+    <td bgcolor="#1F4B93"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="208" align="left" class="h1_font"><br />          <img src="images/stylnkslogo.jpg" width="110" height="119" alt="" /><br />            
+          <span class="bdy_link">Best Solution for your Business</span><br />        </td>
+        <td width="225">&nbsp;</td>
+        <td width="507" bgcolor="#1F4B93">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" class="messg2">Stylinks Cyber Nigeria Limited</td>
+        </tr>
+    </table></td>
   </tr>
 </table>
-<table width="940" border="0" align="center" cellpadding="1" cellspacing="1">
+<table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td><table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
@@ -114,11 +61,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <div align="center" class="menu">Home</div>
         </a></td>
         <td width="9" align="left"><img src="images/index_r2_c13.jpg" alt="" width="9" height="27" /></td>
-        <td width="61" align="left" background="images/index_r1.jpg"><a href="index.php?id=about_us">
+        <td width="61" align="left" background="images/index_r1.jpg"><a href="?id=about_us">
           <div align="center" class="menu">About us</div>
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        <td width="102" align="left" background="images/index_r1.jpg"><a href="#">
+        <td width="102" align="left" background="images/index_r1.jpg"><a href="services.php">
           <div align="center" class="menu">Our Services</div>
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
@@ -131,58 +78,51 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="85" align="left" background="images/index_r1.jpg"><a href="contact_us.php">
-        <div align="center" class="menu">Contact us</div></a></td>
+          <div align="center" class="menu">Contact us</div>
+        </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="88" align="center" background="images/index_r1.jpg" ><div class="menu"><a href="#" class="menu" onclick="MM_openBrWindow('https://pen.whogohost.com:2096/','','')">Mail</a></div></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        
         <td width="246" align="left" background="images/about1.gif" ></td>
-       
-       
       </tr>
     </table></td>
   </tr>
+</table>
+<table width="940" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
   <tr>
-    <td><table width="100%" border="0" align="center" cellpadding="1" cellspacing="1" class="content">
-      <tr>
-        <td align="left" valign="top" class="h4_font"><table width="95%" border="0" align="center">
-          <tr>
-            <td><strong>OUR SERVICES</strong><br />
-              <p class="h4_font">+ Websites/Portal Developm<span class="h2_font">ent</span><br />
-+ Software Development <br />
-+ Statistical Analysis<br />
-                + Supply &amp; Installation <span class="h2_font">of Security Cameras </span></p>
-              <p></p></td>
-          </tr>
-        </table></td>
-        </tr>
-      <tr>
-        <td align="left" valign="top" class="h4_font">&nbsp;</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top" class="h4_font"><table width="95%" border="0" align="center">
-          <tr>
-            <td width="24%" align="left"><strong><u>Our Clients</u></strong></td>
-            <td width="22%" align="center">&nbsp;</td>
-            <td width="54%" align="center">&nbsp;</td>
-            </tr>
-          <tr>
-            <td align="center"><a href="#"><img src="images/michlogo.jpg" alt="" width="69" height="66" onclick="MM_openBrWindow('tarabapoly.edu.ng','','')" /></a></td>
-            <td align="center"><img src="images/mylogo.jpg" alt="" name="" width="67" height="68" onclick="MM_openBrWindow('sashtgonline.edu.ng','','')" /></td>
-            <td align="center">&nbsp;</td>
-          </tr>
-          </table></td>
-      </tr>
-    </table></td>
+    <td height="225" colspan="3" align="left"><img src="images/wd.jpg" width="940" height="230" /></td>
   </tr>
   <tr>
-    <td bgcolor="#666666"><table width="100%" border="0" align="center">
-      <tr bgcolor="#252728">
+    <td height="46" colspan="3" align="left"><p><strong>OUR SERVICES</strong><br />
+      <br />
+      + Websites/Portal Development<br />
+      <br />
+        + Software Development <br />
+        <br />
+        + Statistical Analysis<br />
+        <br />
+    + Supply &amp; Installation</p></td>
+  </tr>
+  <tr>
+    <td width="31%" height="46" align="left"><div align="center"><img src="images/michlogo.jpg" width="163" height="176" /></div></td>
+    <td width="22%" align="left"><img src="images/mylogo.jpg" width="163" height="150" /></td>
+    <td width="47%" align="left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="46" align="left"><div align="center">Taraba State Polytechnic</div></td>
+    <td align="left"><div align="center">Gwadabawa University</div></td>
+    <td align="left">&nbsp;</td>
+  </tr>
+</table>
+<table width="940" border="2" align="center" cellpadding="1" cellspacing="1">
+  <tr bgcolor="#252728">
+    <td><table width="100%" border="0" align="center">
+      <tr>
         <td width="29%" align="left" class="h6_font"><u>PRODUCTS</u></td>
         <td width="38%" align="left" class="h6_font"><u>SERVICE OFFERS</u></td>
         <td width="33%" align="left" class="h6_font"><u>CONTACT US</u></td>
       </tr>
-      <tr bgcolor="#252728">
+      <tr>
         <td align="left" valign="top"><ul>
           <li class="h2_font">Payrol System</li>
           <li class="h2_font">E-voting System</li>
@@ -191,16 +131,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <li class="h2_font">Estate Manag. System</li>
           <li class="h2_font">Inventory</li>
         </ul></td>
-        <td align="left" valign="top"><p><span class="h2_font">+ Web Design</span><br />
+        <td align="left" valign="top" bgcolor="#252728"><p><span class="h2_font">+ Web Design</span><br />
             <span class="h2_font">+ Application Development </span><br />
-            <span class="h2_font">+          Statistical Analysis</span><br />
-            <span class="h2_font">+ Supply &amp; Installation of Security Cameras </span><br />
+          <span class="h2_font">+          Statistical Analysis</span><br />
+          <span class="h2_font">+ Supply &amp; Installation of Security Cameras </span></p>
+          <p><br />
           </p></td>
         <td align="left" valign="top" class="h2_font"><p>Block I, Shop 7/8 Miyapet Plaza Jalingo, <br />
           <br />
           Taraba State.</p>
-          <p>Phone: 07037759600, 08138837349, 08065915331, 08058196510</p>
-          <p>E-mail: info@stylinks.com.ng</p></td>
+<p>Phone: 07037759600, 08138837349, 08065915331, 08058196510</p>
+<p>E-mail: info@stylinks.com.ng</p></td>
       </tr>
       <tr bgcolor="#333333">
         <td colspan="3" align="center" valign="top"><span class="h2_font">Copyright(c) <?php echo date('Y')?> . Stylinks Cyber Nig Ltd All Right Reserved</span></td>
