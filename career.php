@@ -73,10 +73,6 @@ body {
           <div align="center" class="menu">Our Portfolio</div>
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        <td width="75" align="left" background="images/index_r1.jpg"><a href="career.php">
-          <div align="center" class="menu">Career</div>
-        </a></td>
-        <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="85" align="left" background="images/index_r1.jpg"><a href="contact_us.php">
           <div align="center" class="menu">Contact us</div>
         </a></td>

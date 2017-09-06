@@ -61,12 +61,9 @@ body {
           <div align="center" class="menu">Home</div>
         </a></td>
         <td width="9" align="left"><img src="images/index_r2_c13.jpg" alt="" width="9" height="27" /></td>
-        <td width="61" align="left" background="images/index_r1.jpg"><a href="?id=about_us">
+        <td width="61" align="left" background="images/index_r1.jpg"><a href="index.php?id=about_us">
           <div align="center" class="menu">About us</div>
-        </a></td>
-        <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        <td width="102" align="left" background="images/index_r1.jpg"><a href="services.php">
-          <div align="center" class="menu">Our Services</div>
+        
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="90" align="left" background="images/index_r1.jpg"><a href="portfolio.php">

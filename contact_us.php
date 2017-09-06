@@ -27,6 +27,7 @@ body {
 </head>
 
 <body>
+
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td bgcolor="#DE2922"><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -78,10 +79,6 @@ body {
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="75" align="left" background="images/index_r1.jpg"><a href="career.php">
           <div align="center" class="menu">Career</div>
-        </a></td>
-        <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
-        <td width="85" align="left" background="images/index_r1.jpg"><a href="contact_us.php">
-          <div align="center" class="menu">Contact us</div>
         </a></td>
         <td width="10" align="left"><img src="images/index_r2_c8.jpg" alt="" width="10" height="27" /></td>
         <td width="88" align="center" background="images/index_r1.jpg" ><div class="menu"><a href="#" class="menu" onclick="MM_openBrWindow('https://pen.whogohost.com:2096/','','')">Mail</a></div></td>

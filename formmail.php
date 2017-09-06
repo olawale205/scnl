@@ -11,11 +11,13 @@
   $name=addslashes($_POST['name']);
   $email=addslashes($_POST['email']);
   $comments=addslashes($_POST['message']);
+  header("location:thank_u.html");
+  
 
  // you can specify which email you want your contact form to be emailed to here
 
   $toemail = "info@stylinks.com.ng";
-  $subject = "from UMCN.com";
+  $subject = "from stylinks.com.ng";
 
   $headers = "MIME-Version: 1.0\n"
             ."From: \"".$name."\" <".$email.">\n"
