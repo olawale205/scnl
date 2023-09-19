@@ -67,7 +67,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <td width="507" bgcolor="#1F4B93">&nbsp;</td>
       </tr>
       <tr>
-        <td colspan="3" class="messg2">Stylinks Cyber Nigeria Limited</td>
+        <td colspan="3" class="messg2">Stylinks Cyber NigLd</td>
         </tr>
     </table></td>
   </tr>
